@@ -1,3 +1,12 @@
+// Tejas Aditya
+// CS 143
+// Implementing MyQueue Core Topics: Queue and ArrayList
+//
+// This is a user defined class for a queue implemented using
+// ArrayList. It provides functions to add a value to a queue,
+// remove a value, get queue size, check if it's empty, and
+// print it. The function list and their definitions are given below.
+
 /*
 MyQueue<E>()      Constructs a new queue with elements of type E 
 add(E value)      Adds val to the back of the queue

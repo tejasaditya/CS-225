@@ -1,3 +1,13 @@
+// Tejas Aditya
+// CS 143
+// Implementing MyStack Core Topics: Stacks and ArrayList
+//
+// This is a user defined class for a stack implemented using
+// ArrayList. It provides functions to push a value to a stack,
+// pop a value back, peek at the top value, get stack size, check
+// if it's empty, and print it. The function list and their definitions
+// are given below.
+
 /*
 MyStack<E>()   Constructs a new stack with elements of type E 
 push(val)      Places val on top of the stack

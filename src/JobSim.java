@@ -2,7 +2,14 @@
 // CS 143
 // Job Simulation Core Topics: Stacks and Queues
 //
-//
+// This program will create a employee list and wait list using
+// stacks and queues. It will give employment to people in FIFO
+// order from the wait list. The defined cycle function fires
+// random number of people each time by rolling a die.
+// The fired people are added to the back of the wait list
+// and workers are hired from the front of the wait list.
+// The program also provides functionality to print the
+// employee list and wait list at any point.
 
 import java.util.*;
 
